@@ -1,40 +1,40 @@
 .container_main {
   background: hsl(0, 0%, 100%);
-  width: 350px;
-  padding-top: 40px;
-  padding-bottom: 40px;
+  width: 21.875rem;
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  border-radius: 20px;
+  border-radius: 1.25rem;
 }
 
 .qr_component_container {
   background:#2b7dfa;
-  width:280px ;
-  height: 280px ;
+  width:17.5rem;
+  height: 17.5rem ;
   display: flex;
   justify-content: center;
   align-items: center;
-  border-radius: 15px;
-  padding-bottom: 20px;
+  border-radius: 0.9375rem;
+  padding-bottom: 1.25rem;
 }
 
 .qr_text_section {
-  padding: 20px;
+  padding: 1.25rem;
   padding-bottom: 0;
-  width: 280px;
+  width: 17.5rem;
 }
 
 .qr_text_section p {
-  margin-top: 20px;
-  font-size: 15px;
+  margin-top: 1.25rem;
+  font-size: 0.9375rem;
 }
 .qr_text_section h1 {
   display: inline-block;
   text-align: justify;
-  font-size: 19px;
-  margin: 0 10px;
+  font-size: 1.1875rem;
+  margin: 0 0.625rem;
   color: hsl(218, 44%, 22%);
 }
