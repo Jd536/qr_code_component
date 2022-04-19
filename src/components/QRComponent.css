@@ -1,0 +1,40 @@
+.container_main {
+  background: hsl(0, 0%, 100%);
+  width: 350px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+}
+
+.qr_component_container {
+  background:#2b7dfa;
+  width:280px ;
+  height: 280px ;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+  padding-bottom: 20px;
+}
+
+.qr_text_section {
+  padding: 20px;
+  padding-bottom: 0;
+  width: 280px;
+}
+
+.qr_text_section p {
+  margin-top: 20px;
+  font-size: 15px;
+}
+.qr_text_section h1 {
+  display: inline-block;
+  text-align: justify;
+  font-size: 19px;
+  margin: 0 10px;
+  color: hsl(218, 44%, 22%);
+}
